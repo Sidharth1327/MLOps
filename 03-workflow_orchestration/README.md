@@ -1,4 +1,4 @@
-📂 Module 3: Workflow Orchestration
+### 📂 Module 3: Workflow Orchestration
 Workflow orchestration is a critical step in moving machine learning pipelines from research prototypes to production-ready systems. It ensures that each step—from data ingestion to preprocessing, model training, evaluation, and deployment—runs reliably, reproducibly, and in the correct sequence, while enabling scheduling, monitoring, and scalability.
 
 🔑 Core Concepts
