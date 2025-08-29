@@ -16,7 +16,6 @@ Implemented ML experiment tracking workflows with **MLflow**.
 - Positioned experiment tracking within the broader ML lifecycle (data → training → versioning → deployment).  
 - Explored How to register models that were saved or logged in mlflow, transitionign them into different stages.
 - Explored how to retireve those to apply them to new test data to comapre their performance and add annotation to different versions of model using MLFlow Client. 
-- 
 - Built a foundation for reproducibility, collaboration, and scaling experiments.  
 
 ### [3: Workflow Orchestration](https://github.com/Sidharth1327/MLOps/tree/main/03-workflow_orchestration)
