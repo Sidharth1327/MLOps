@@ -16,7 +16,7 @@ Implemented ML experiment tracking workflows with **MLflow**.
 - Positioned experiment tracking within the broader ML lifecycle (data → training → versioning → deployment).  
 - Built a foundation for reproducibility, collaboration, and scaling experiments.  
 
-### [3: Workflow Orchestration]
+### [3: Workflow Orchestration](https://github.com/Sidharth1327/MLOps/tree/main/03-workflow_orchestration)
 Converted a Python notebook into a streamlined Python script and built a fully operational ML pipeline.
 
 - Optimized code by including only the essential steps required for training, validation, and model logging.
